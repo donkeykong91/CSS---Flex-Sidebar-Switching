@@ -105,4 +105,8 @@
 		.sidebar-left {
 			order: 0;
 		}
+
+		.no-sidebar {
+			flex-direction: column;
+		}
 }
