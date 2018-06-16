@@ -101,7 +101,7 @@
     .sidebar {
         flex: 0 0 12em;
         order: 2;
-				transition: flex .5s ease, padding .5s ease;
+				transition: padding .5s ease, flex .5s ease, color .2s ease-in .3s;
     }
 
 		.sidebar-left {
