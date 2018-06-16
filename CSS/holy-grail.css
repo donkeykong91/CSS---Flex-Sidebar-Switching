@@ -16,6 +16,7 @@
 .sidebar {
 	padding: .5em 1.4em 1em;
 	background: hsl(0, 0%, 90%);
+	/* overflow: hidden; */
 }
 
 .example-menu ul {
@@ -112,5 +113,6 @@
 
 		.hide {
 			flex: 0 0 0;
+			padding: 0;
 		}
 }
