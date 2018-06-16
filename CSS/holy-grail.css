@@ -101,6 +101,7 @@
     .sidebar {
         flex: 0 0 12em;
         order: 2;
+				transition: flex .5s ease, padding .5s ease;
     }
 
 		.sidebar-left {
