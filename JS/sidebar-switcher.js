@@ -14,6 +14,8 @@
     $('a.no-sidebar-toggle').click(function() {
       if (!$('.content').hasClass('no-sidebar')) {
         $('.content').addClass('no-sidebar');
+      } else {
+        $('.content').removeClass('no-sidebar');
       }
     });
 })( jQuery );
