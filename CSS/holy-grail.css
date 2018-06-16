@@ -116,7 +116,7 @@
 			flex: 0 0 0;
 			padding: 0;
 			color: hsla(0, 0%, 0%, 0);
-			transition: color .2s ease, flex .5s ease .3, padding .5s ease .3;
+			transition: color .2s ease, flex .5s ease .3s, padding .5s ease .3s;
 		}
 
 		.hide a {
